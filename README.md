@@ -95,7 +95,7 @@ Everything I create is guided by these [Values](https://myungjoon.com/values):
 | | |
 |---|---|
 | ♿ **Accessibility** | Technology should work for everyone, not just the majority. |
-| 📚 **Education** | The best apps make learning easier, more engaging, and more equitable. |
+| 📚 **Education** | The best apps make learning easier and more engaging. |
 | 🗣 **Communication** | Great software helps people connect and express themselves. |
 
 ---
