@@ -102,6 +102,6 @@ Everything I create is guided by these [Values](https://myungjoon.com/values):
 
 <div align="center">
 
-Made with ❤️ in Vancouver and Seoul &nbsp;·&nbsp; [myungjoon.com](https://myungjoon.com)
+Made with ❤️ in Vancouver and Seoul &nbsp;·&nbsp; [myungjoon.com](https://myungjoon.com/hello)
 
 </div>
