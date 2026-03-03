@@ -84,7 +84,7 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 
 ## 🏅 Swift Student Challenge
 
-My Swift Student Challenge submissions are archived in the [wwdc/2025](https://github.com/wwdc/2025) & [wwdc/2025](https://github.com/wwdc/2026) repositories.
+My Swift Student Challenge submissions are archived in the [wwdc/2025](https://github.com/wwdc/2025) & [wwdc/2026](https://github.com/wwdc/2026) repositories.
 
 ---
 
