@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canada 🇨🇦. I build iOS apps with a focus on **accessibility**, **education**, and **communication** — because code without values is just syntax.
+I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canada 🇨🇦.
 
 - 🏆 **Swift Student Challenge 2025 Winner**
 - 📱 Specialising in **SwiftUI** and native iOS & iPadOS development
