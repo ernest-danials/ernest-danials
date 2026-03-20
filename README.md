@@ -42,14 +42,11 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 ### [Duet](https://myungjoon.com/duet)
 > **Swift Student Challenge 2026 Submission** | Duet is a collaborative language learning app that bridges two people with different native languages, with AI as a quiet assistant.
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
-
 ---
 
 ### [SpeechPath](https://myungjoon.com/speechpath)
 > **Swift Student Challenge 2025 Winner** | SpeechPath is an app that aims to help deaf individuals learn and improve their English pronunciation. Through visual representation and feedback, SpeechPath breaks the barrier to spoken language.
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
 ![iOS 18+](https://img.shields.io/badge/iOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
@@ -57,7 +54,6 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 ### [AcceLab](https://myungjoon.com/accelab) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apple.co/4nPsBqc) · [![GitHub](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-danials/Accelab) · [![DeepWiki](https://img.shields.io/badge/DeepWiki-5C4EE5?style=flat-square&logoColor=white)](https://deepwiki.com/ernest-danials/Accelab)
 > Uses iPhone sensors to help physics students collect distance-time data from a cart on an air track lab — no expensive photogates needed.
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
 ![iOS 18+](https://img.shields.io/badge/iOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
@@ -66,7 +62,6 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 ### [Clima](https://myungjoon.com/clima) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/clima-climate-justice/id6746771138) · [![GitHub](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-danials/Clima) · [![DeepWiki](https://img.shields.io/badge/DeepWiki-5C4EE5?style=flat-square&logoColor=white)](https://deepwiki.com/ernest-danials/Clima)
 > Clima is an educational app exploring global climate justice — visualising which countries contribute most to climate change and which suffer the most from its effects.
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
 ![iPadOS 18+](https://img.shields.io/badge/iPadOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS Sequoia+](https://img.shields.io/badge/macOS_Sequoia_(Apple_Silicon)-000000?style=flat-square&logo=apple&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -76,9 +71,8 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 ### [Converta](https://myungjoon.com/converta) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/converta/id6446321039)
 > Converta is a currency converter app whose users can convert to 159 currencies easily. You can save frequently used conversions to your Library, convert to crypto currencies, and access historical data.
 
-> ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
-> ![iOS 16+](https://img.shields.io/badge/iOS_16%2B-000000?style=flat-square&logo=apple&logoColor=white)
-> ![watchOS 9+](https://img.shields.io/badge/watchOS_9%2B-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS 16+](https://img.shields.io/badge/iOS_16%2B-000000?style=flat-square&logo=apple&logoColor=white)
+![watchOS 9+](https://img.shields.io/badge/watchOS_9%2B-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
