@@ -82,18 +82,6 @@ My Swift Student Challenge submissions are archived in the [wwdc/2025](https://g
 
 ---
 
-## 💬 Values
-
-Everything I create is guided by these [Values](https://myungjoon.com/values):
-
-| | |
-|---|---|
-| ♿ **Accessibility** | Technology should work for everyone, not just the majority. |
-| 📚 **Education** | The best apps make learning easier and more engaging. |
-| 🗣 **Communication** | Great software helps people connect and express themselves. |
-
----
-
 <div align="center">
 
 Made with ❤️ in Vancouver and Seoul &nbsp;·&nbsp; [myungjoon.com](https://myungjoon.com/hello)
