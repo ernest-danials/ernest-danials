@@ -44,7 +44,7 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 
 ---
 
-### [SpeechPath](https://myungjoon.com/speechpath)
+### [SpeechPath](https://myungjoon.com/speechpath) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/speechpath/id6745437939)
 > **Swift Student Challenge 2025 Winner** | SpeechPath is an app that aims to help deaf individuals learn and improve their English pronunciation. Through visual representation and feedback, SpeechPath breaks the barrier to spoken language.
 
 ![iOS 18+](https://img.shields.io/badge/iOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
