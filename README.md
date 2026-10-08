@@ -8,8 +8,9 @@
 
 [![Website](https://img.shields.io/badge/myungjoon.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://myungjoon.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myung-joon-kang)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@ernest_danials)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/myungjoon.com)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@myungjoon.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myungjoon.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC39w2Ql4A01ojfthukU7NbQ)
 
 </div>
 
@@ -22,7 +23,7 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 - 🏆 **Swift Student Challenge 2025 Winner**
 - 📱 Specialising in **SwiftUI** and native iOS & iPadOS development
 - 🌏 Bilingual — Korean & English
-- 🔭 Currently working on **Duet**
+- 🔭 Currently working on **Madi**, a writing app for language learners
 - 🏫 IB Diploma Programme student
 
 ---
@@ -39,22 +40,33 @@ I'm a student developer from Korea 🇰🇷, currently based in Vancouver, Canad
 
 ## 📱 Projects
 
-### [Duet](https://myungjoon.com/duet)
-> **Swift Student Challenge 2026 Submission** | Duet is a collaborative language learning app that bridges two people with different native languages, with AI as a quiet assistant.
-
----
-
 ### [SpeechPath](https://myungjoon.com/speechpath) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/speechpath/id6745437939)
 > **Swift Student Challenge 2025 Winner** | SpeechPath is an app that aims to help deaf individuals learn and improve their English pronunciation. Through visual representation and feedback, SpeechPath breaks the barrier to spoken language.
 
 ![iOS 18+](https://img.shields.io/badge/iOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
+![iPadOS 18+](https://img.shields.io/badge/iPadOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
-### [AcceLab](https://myungjoon.com/accelab) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apple.co/4nPsBqc) · [![GitHub](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-danials/Accelab) · [![DeepWiki](https://img.shields.io/badge/DeepWiki-5C4EE5?style=flat-square&logoColor=white)](https://deepwiki.com/ernest-danials/Accelab)
-> Uses iPhone sensors to help physics students collect distance-time data from a cart on an air track lab — no expensive photogates needed.
+### [Madi](https://myungjoon.com/madi) · [![TestFlight](https://img.shields.io/badge/TestFlight_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/pwhDaTek)
+> **Early Preview** | Madi is a writing app for language learners. Write in the language you're learning, and when you hit a word gap, write the word in your own language instead. Madi catches it, translates it, and adds it to your personal glossary — all on-device. Supports English, Spanish, Korean and French.
 
-![iOS 18+](https://img.shields.io/badge/iOS_18%2B-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS 26+](https://img.shields.io/badge/iOS_26%2B-000000?style=flat-square&logo=apple&logoColor=white)
+![iPadOS 26+](https://img.shields.io/badge/iPadOS_26%2B-000000?style=flat-square&logo=apple&logoColor=white)
+
+---
+
+### [Duet](https://myungjoon.com/duet) · [![GitHub](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-danials/Duet-Open-Source) · [![DeepWiki](https://img.shields.io/badge/DeepWiki-5C4EE5?style=flat-square&logoColor=white)](https://deepwiki.com/ernest-danials/Duet-Open-Source)
+> **Swift Student Challenge 2026 Submission** | Duet is a collaborative language learning app that bridges two people with different native languages, with AI as a quiet assistant. Rather than launching on the App Store, Duet is now [open source](https://myungjoon.com/blog/duet-is-not-coming-to-the-app-store.-it-s-going-to-github).
+
+![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+---
+
+### [Accelab](https://myungjoon.com/accelab) · [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apple.co/4nPsBqc) · [![GitHub](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ernest-danials/Accelab) · [![DeepWiki](https://img.shields.io/badge/DeepWiki-5C4EE5?style=flat-square&logoColor=white)](https://deepwiki.com/ernest-danials/Accelab)
+> Helps physics students collect lab data without expensive equipment. Film a run or choose a video, mark a known length, and Accelab tracks a cart on an air track — or an object in flight — and turns it into data ready for CSV or Desmos. The original sensor method, with an iPhone attached to the cart, is still there too.
+
+![iOS 26+](https://img.shields.io/badge/iOS_26%2B-000000?style=flat-square&logo=apple&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
